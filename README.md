@@ -4,6 +4,8 @@ This code is not mine , just uploaded because didnt find it anywhere else , the 
 
 http://www.bristolwatch.com/rpi/i2clcd.htm
 
+You still need the wiringPi library in order to correctly use this code
+
 by Lewis Loflin
 
 See YouTube video Interface I2C LCD to Raspberry Pi in C
